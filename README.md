@@ -23,6 +23,5 @@
 
 ## Запуск
 ```bash
-git clone https://github.com/grisha0808/smart_notes_manager.git
-cd smart_notes_manager
+git clone https://github.com/grisha0808/Weather-Diaryy
 python main.py
